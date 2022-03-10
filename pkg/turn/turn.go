@@ -16,7 +16,7 @@ type TurnServerConfig struct {
 
 func DefaultConfig() TurnServerConfig {
 	return TurnServerConfig{
-		PublicIP: "127.0.0.1",
+		PublicIP: "149.91.80.63",
 		Port:     19302,
 		Realm:    "flutter-webrtc",
 	}
